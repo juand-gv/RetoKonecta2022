@@ -12,4 +12,4 @@
 - Victor: Ssguridad
 - Juan José: Base de datos
 - Juan Diego: Visualización/Front
-- Daniel: Scrum Master/Backend
+- Daniel: Lider técnico y arquitectura
