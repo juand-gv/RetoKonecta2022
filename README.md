@@ -1,7 +1,7 @@
 # RetoKonecta2022
 
 ## Stack
-- Framework: Flask
+- Framework: Flask sobre instancia de Amazon EC2
 - Consumo de APIs: Python
 - Front/Visualizador: PowerBI
 - Nube: AWS
