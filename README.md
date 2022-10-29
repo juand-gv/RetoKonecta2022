@@ -1,11 +1,11 @@
 # RetoKonecta2022
 
 ## Stack
-- Consumo de APIs: Python sobre instancia de Amazon EC2
+- Consumo de APIs: Python (Request) sobre instancia de Amazon EC2
 - Front/Visualizador: PowerBI
 - Nube: AWS
 - Base de datos: Amazon RDS
-- Seguridad: 
+- Seguridad: OAuth
 
 **Roles:**
 - Wilson: Backend
